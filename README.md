@@ -27,6 +27,7 @@
 - :heart: in love with AI and music
 - :computer: looking for job opportunities
 - :mailbox: Send me an e-mail: yantdo1@gmail.com
+- :pray: Thanks to itsZed0 on github for README tutorial
 </div>
 
 ---
