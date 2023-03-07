@@ -1,5 +1,5 @@
 <div  id="header" align="center">
-  <img style="height:280px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+  <img style="height:280px; margin-botom:15px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   <div id="badges">
   <a href="https://www.linkedin.com/in/yantavares01/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
