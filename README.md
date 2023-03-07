@@ -22,6 +22,7 @@
 <div id="about">
 
 ### :man_technologist: About Me :
+
 <div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:.</div>
 
 - :heart: in love with AI and music
@@ -31,9 +32,11 @@
 </div>
 
 ---
+
 <div style="margin-top: 10px"></div>
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/>&nbsp;
@@ -50,19 +53,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-
-
 ---
-### :fire: My Stats :
-<div align="center" style="margin-top:10px">
 
+### :fire: My Stats :
+
+<div align="center" style="margin-top:10px">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yantavares&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantavares&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
 
 </div>
