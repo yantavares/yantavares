@@ -13,10 +13,6 @@
 </div>
 
 </div>
-<div align="center" style="margin-top:10px">
-<img src= "https://img.shields.io/github/followers/yantavares?style=social">
-
-</div>
 
 <h1 align="center" style="margin-top: 15px">
   hey there
