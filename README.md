@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 
-<div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:.</div>
+<div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:</div>
 
 - :heart: in love with AI and music
 - :computer: looking for job opportunities
