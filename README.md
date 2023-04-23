@@ -22,7 +22,7 @@
 
 <div id="about">
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 <div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:</div>
 
