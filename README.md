@@ -63,6 +63,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantavares&layout=compact&theme=dark&exclude_repo=chamada-flask&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
-
+  </div>
 </div>
