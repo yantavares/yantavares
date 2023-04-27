@@ -55,13 +55,12 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 <div align="center" style="margin-top:10px">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yantavares&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantavares&layout=compact&theme=dark&exclude_repo=chamada-flask&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-  
   </div>
 </div>
