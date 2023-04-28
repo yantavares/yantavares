@@ -60,7 +60,7 @@
 
 <div style="margin-top: 10px"></div>
 
-### 💡: Currently studying :
+### 💡Currently studying :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
