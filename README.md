@@ -37,7 +37,7 @@
 
 <div style="margin-top: 10px"></div>
 
-### :wrench: Tools I use at work :
+### :wrench: Tools I currently use at work :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
