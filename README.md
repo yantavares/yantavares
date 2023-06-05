@@ -30,6 +30,7 @@
 - :computer: Software Development Intern at Orion Group
 - :mailbox: Send me an e-mail: yantdo1@gmail.com
 - :pray: Thanks to itsZed0 on github for README tutorial
+- ❗ <a href= "https://yantavares.github.io/resume-react/" target="_blank" > See my projects! </a>
 </div>
 
 ---
