@@ -26,7 +26,7 @@
 
 <div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:</div>
 
-- :heart: In love with AI and music
+- :heart: Love AI and music
 - :computer: Software Development Intern at Orion Group
 - :mailbox: Send me an e-mail: yantdo1@gmail.com
 - :pray: Thanks to itsZed0 on github for README tutorial
