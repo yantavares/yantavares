@@ -97,8 +97,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantavares&layout=donut&theme=dark&exclude_repo=chamada-flask,roman-numbers-convert&langs_count=6&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yantavares&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
   </div>
 </div>
