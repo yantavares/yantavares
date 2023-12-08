@@ -21,7 +21,7 @@
 
 <div id="about">
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 <div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:</div>
 
@@ -36,7 +36,7 @@
 
 <div style="margin-top: 10px"></div>
 
-### :wrench: Tools I currently use at work :
+### 🔧 Tools I currently use at work :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -54,7 +54,7 @@
 
 <div style="margin-top: 10px"></div>
 
-### :hammer_and_wrench: Other tools I have experience with :
+### 🛠️ Other tools I have experience with :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -89,7 +89,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 <div align="center" style="margin-top:10px">
 
