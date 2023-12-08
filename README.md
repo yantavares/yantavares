@@ -14,11 +14,6 @@
 
 </div>
 
-<h2 align="center" style="margin-top: 15px" display="flex">
-  Hello!
-</h2>
-
-
 <div id="about">
 
 ### 👨‍💻 About Me :
