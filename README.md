@@ -15,7 +15,7 @@
 </div>
 
 <h2 align="center" style="margin-top: 15px" display="flex">
-  hello dev!
+  Hello!
 </h2>
 
 
