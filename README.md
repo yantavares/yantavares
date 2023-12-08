@@ -20,10 +20,10 @@
 
 <div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:</div>
 
-- :heart: Love AI and music
-- :computer: Software Development Intern at Orion Group
-- :mailbox: Send me an e-mail: yantdo1@gmail.com
-- :pray: README inspired by itsZed0 on github
+- 💙 Love AI and music
+- 💻 Software Development Intern at Orion Group
+- 📧 Send me an e-mail: yantdo1@gmail.com
+- 🙏 README inspired by itsZed0 on github
 - ❗ <a href= "https://yantavares.github.io/resume-react/" target="_blank" > See my projects! </a>
 </div>
 
