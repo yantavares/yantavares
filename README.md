@@ -12,9 +12,9 @@
   </a>
 </div>
 
-</div>
+<h1 align="center">Hello there!</h1>
 
-<div id="about">
+<div id="about" align="left">
 
 ### 👨‍💻 About Me :
 
