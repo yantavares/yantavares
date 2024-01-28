@@ -88,7 +88,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantavares&layout=donut&theme=dark&exclude_repo=chamada-flask,roman-numbers-convert&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantavares&layout=donut&theme=dark&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yantavares&layout=donut&theme=dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
   </div>
