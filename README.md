@@ -21,7 +21,7 @@
 <div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:</div>
 
 - 💙 Love AI and music
-- 💻 Software Development Intern at Orion Group
+- 💻 Researcher at UnB - University of Brasília
 - 📧 Send me an e-mail: yantdo1@gmail.com
 - 🙏 README inspired by itsZed0 on github
 - ❗ <a href= "https://yantavares.github.io/resume-react/" target="_blank" > See my projects! </a>
