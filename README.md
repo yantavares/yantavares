@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<i align="center">Image 1: Reak image of me coding at 3am.</i>
+<i align="center">Image 1: Real representation of me coding at 3am.</i>
 
 <div id="about" align="left">
 
