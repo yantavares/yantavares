@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   </div>
-<i align="center">Image 1: Real representation of me coding at 3am.</i>
+<i align="center">Image 1: Real representation of me coding at 1am.</i>
 </div>
 
 
