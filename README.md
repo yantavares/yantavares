@@ -1,5 +1,6 @@
 <div  id="header" align="center">
   <img style="width:338px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+  <i align="center">Image 1: Real representation of me coding at 3am.</i>
   <div id="badges">
   <a href="https://www.linkedin.com/in/yantavares01/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +13,6 @@
   </a>
 </div>
 
-<i align="center">Image 1: Real representation of me coding at 3am.</i>
 
 <div id="about" align="left">
 
