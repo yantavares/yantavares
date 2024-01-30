@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h1 align="center">Oi!</h1>
+<i align="center">Image 1: Reak image of me coding at 3am.</i>
 
 <div id="about" align="left">
 
