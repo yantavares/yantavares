@@ -21,7 +21,6 @@
 
 <div style="margin-bottom:8px"> I am a computer engineering student in University of Brasília (UnB) from Brazil :brazil:</div>
 
-- 💙 Love AI and music
 - 💻 Researcher at UnB - University of Brasília
 - 📧 Send me an e-mail: yantdo1@gmail.com
 - 🙏 README inspired by itsZed0 on github
