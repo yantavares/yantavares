@@ -23,8 +23,6 @@
 
 - 💻 Researcher at UnB - University of Brasília
 - 📧 Send me an e-mail: yantdo1@gmail.com
-- 🙏 README inspired by itsZed0 on github
-- ❗ <a href= "https://yantavares.github.io/resume-react/" target="_blank" > See my projects! </a>
 </div>
 
 ---
