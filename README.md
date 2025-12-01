@@ -16,17 +16,10 @@
 
 </div>
 
-<br />
 
 ### About Me
 
-I am a **Computer Engineering** student and **Researcher** at the [University of Brasília (UnB)](https://www.unb.br/), Brazil 🇧🇷. 
-
-My work focuses on **Artificial Intelligence**, **Machine Learning**, and **Systems Control**. I am passionate about Open Source contributions and solving complex problems through efficient code. Currently, I am exploring **AI Agents**, **Energy Forecasting**, and **Embedded Systems**.
-
-- 🔭 I’m currently working on **Machine Learning Research & Open Source Projects**.
-- 🎓 Certified **HCIA-AI** by Huawei.
-- ⚡ **Interests:** Data Science, Computer Vision, High-Performance Computing (C++/Rust).
+I am a master's student and Researcher at the [University of Brasília (UnB)](https://www.unb.br/), Brazil 🇧🇷, working on different AI problems.
 
 ---
 
