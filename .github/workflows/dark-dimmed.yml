@@ -1,0 +1,32 @@
+# This workflow configures the user-statistician with the
+# dark-dimmed color theme, but otherwise uses all of
+# the defaults. It is configured on a daily schedule at 3am.
+
+name: user-statistician
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  push:
+    branches: [ main ]
+    paths: [ '.github/workflows/dark-dimmed.yml' ]
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Generate the user stats image
+      uses: cicirello/user-statistician@v1
+      with:
+        colors: dark-dimmed
+        include-title: false
+        hide-keys: general, forkedBy, watchedBy, templates, archived
+        language-repository-exclusions: demand-prediction-models, 3W, snptee, simulador-redes-TR1
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
