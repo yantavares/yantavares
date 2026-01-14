@@ -28,5 +28,6 @@ jobs:
         include-title: false
         hide-keys: general, forkedBy, watchedBy, templates, archived, issues, reviews, contribTo
         language-repository-exclusions: demand-prediction-models, 3W, snptee, simulador-redes-TR1
+        max-languages: 8
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
